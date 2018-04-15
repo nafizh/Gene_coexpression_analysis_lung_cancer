@@ -5,3 +5,12 @@ Abstract
 https://arxiv.org/abs/1804.01217
 
 This was a class project I did for the Systems Biology course at Iowa State during the spring of 2016. The R code for the analysis can be found in this repository. The data can be found [here](https://www.dropbox.com/sh/qzp4qsjxu9xx7pz/AABYRZgm0FRdEREKyiOjTJ3Ra?dl=0). The data is disorganized, so if you want to reproduce the results, check out the code, and find the relevant files used in the code from the data. Please cite the arxiv paper if you use the code (the original code was taken from the WGCNA website, and modified for my purposes). 
+
+```
+@article{hamid2018gene,
+  title={Gene Co-expression Network analysis of Lung Squamous Cell Carcinoma data},
+  author={Hamid, Md-Nafiz},
+  journal={arXiv preprint arXiv:1804.01217},
+  year={2018}
+}
+  ```
